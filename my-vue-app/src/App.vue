@@ -1,6 +1,6 @@
 <template>
   <div>
-    <SiteHeader />
+    <SiteHeader title="Вітаю у Vue-додатку!" />
   </div>
 </template>
 
